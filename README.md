@@ -16,7 +16,7 @@ Currently, I am focusing on building my data science portfolio through machine l
 
 ### Content
 
-- Project 1
+- [Project 1: Stock Prices Prediction Model](https://github.com/harishusnan/Project-1-Stock-Price-Prediction)
     * Project description
 
 
