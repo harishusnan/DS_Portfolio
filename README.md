@@ -13,23 +13,35 @@ Currently, I am focusing on building my data science portfolio through machine l
 
 ### Content
 
-- [Project 1: Stock Prices Prediction Model](#Stock-Prices-Prediction-Model)
-    * Develop a supervised machine learning model using Linear Regression (LR) method and Exponential Moving Average (EMA) as a technical indicator for       stock prices prediction
+- [Project Summary](#Project-Summary)
+    * [Project 1: Stock Prices Prediction Model](#Stock-Prices-Prediction-Model)
+            * Develop a supervised machine learning model using Linear Regression (LR) method and Exponential Moving Average (EMA) as a technical        indicator for stock prices prediction
+    
+    * Project 2: *In Progress*
+            * Project Description
 
-- Project 2: *In Progress*
-    * Project Description
+    * Project 3: *Coming Soon*
+            * Project Description
 
-- Project 3: *Coming Soon*
-    * Project Description
+- [Contact Me](#Contact-Me)
 
 
 
 ### Project Summary
 
 #### Project 1: 
-#### Stock Prices Prediction Model
+###### Stock Prices Prediction Model
 
 Project Details: [Project 1: Stock Prices Prediction Model](https://github.com/harishusnan/Project-1-Stock-Price-Prediction)
+
+
+#### Project 2: 
+###### *In Progress*
+
+
+
+#### Project 3: 
+###### *Coming Soon*
 
 
 
