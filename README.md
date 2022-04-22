@@ -1,6 +1,5 @@
-Hello Folks! 
+## Hello Folks! Welcome to my data science projects repository!
 
-Welcome to my data science projects repository!
 
 ### About Me
 
@@ -22,6 +21,14 @@ Currently, I am focusing on building my data science portfolio through machine l
 
 - Project 3: *Coming Soon*
     * Project Description
+
+
+
+### Project Summary
+
+#### Project 1: Stock Prices Prediction Model
+
+
 
 
 ### Contact me
