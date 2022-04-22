@@ -1,14 +1,10 @@
 ## Data Science Portfolio
 
-
-
-### About Me
-
 Hello Folks! 
 
 Welcome to my data science projects repository!
 
-Owner background summary:
+### About Me
 
 A young and inquisitive electrical engineering graduate who is passionate about artificial intelligence (AI) and machine learning (ML) applications. Completed Data Science with Python and R course by 360DigiTMG and Center of Applied Data Science (CADS) certified Data Analytics Program. Having experience in program management area in structured and unstructured data projects. 
 
