@@ -55,7 +55,7 @@ We checked our dataset if there are outliers exist and we also wanted to see the
 
 Based on the illustrations above, there are **no outliers exist** in our dataset and the price movement is **strong uptrend**.
 
-Next, we included exponential moving average (EMA) as our technical indicator in developing the prediction model. We decided to calculate the EMA over 10 days period. The output is recorded in the project details (link is provided in the table above). Line chart below showed the comparison between actual price and EMA output after a proper data cleansing.
+Next, we included exponential moving average (EMA) as our technical indicator in developing the prediction model. We decided to calculate the EMA over 10 days period. The output is recorded in the project details (link is provided in the table above). Line chart below shown the comparison between actual price and EMA output after a proper data cleansing.
 
 ![Actual vs EMA10 Line Chart](https://github.com/harishusnan/Project-1-Stock-Price-Prediction/blob/main/images/Actual_vs_EMA10_Linechart.png)
 
