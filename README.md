@@ -13,8 +13,8 @@ Currently, I am focusing on building my data science portfolio through machine l
 
 ### Content
 
-- [Project Summary](#Project-Summary)
-    * [Project 1: Stock Prices Prediction Model](#Stock-Prices-Prediction-Model)    
+- [Project Summary]
+    * [Project 1: Stock Prices Prediction Model]
     * Project 2: *In Progress*
     * Project 3: *Coming Soon*
 
