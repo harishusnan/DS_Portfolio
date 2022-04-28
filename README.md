@@ -13,8 +13,8 @@ Currently, I am focusing on building my data science portfolio through machine l
 
 ### Content
 
-- [Project Summary]
-    * [Project 1: Stock Prices Prediction Model]
+- [Project Summary](#Project-Summary)
+    * [Project 1: Stock Prices Prediction Model](#Stock-Prices-Prediction-Model)
     * Project 2: *In Progress*
     * Project 3: *Coming Soon*
 
@@ -32,6 +32,7 @@ Develop a supervised machine learning model using Linear Regression (LR) method 
 |Item|Link|
 |---|---|
 |Data Source (kaggle)|[Blizzard Company Stock Prices Dataset](https://www.kaggle.com/datasets/psycon/game-companies-historical-stock-price-2022-04?select=act_bliz.csv)|
+|Python IDE|[JupyterLab](https://jupyter.org/)|
 |Source Code|[Stock Prices Prediction LR Model](https://github.com/harishusnan/Project-1-Stock-Price-Prediction/blob/main/Blizzard%20LR%20Model.ipynb)|
 |Full Project Details|[Project 1: Stock Prices Prediction Model](https://github.com/harishusnan/Project-1-Stock-Price-Prediction)|
 
@@ -60,9 +61,23 @@ Next, we included exponential moving average (EMA) as our technical indicator in
 ![Actual vs EMA10 Line Chart](https://github.com/harishusnan/Project-1-Stock-Price-Prediction/blob/main/images/Actual_vs_EMA10_Linechart.png)
 
 
-###### Develop Model
+###### Model Development & Evaluation
 
-We split 80% of our data into training dataset and 20% of the remaining data into testing dataset. 
+We split 80% of our data into training dataset and 20% of the remaining data into testing dataset. We trained linear regression model using training dataset and predicted the target values using test dataset. Once we developed the model, we evaluated the model performance through mean absolute error (MAE) and r squared error scores. The error values were shown in the image below.
+
+![Evaluation Metrics](https://github.com/harishusnan/Project-1-Stock-Price-Prediction/blob/main/images/Evaluation_metrics.png)
+
+Thus, we can conclude that our linear regression model fits our data very well.
+
+
+##### Application
+
+At this point, we have successfully developed our model and satisfied with the model performance. The next step is to strategise our plan to make a decision whether we should buy/hold/sell the stocks based on the predicted values from our model. So, we created a new column to indicate the call to action (CTA) on each day as shown in the figure below.
+
+![Final Table](https://github.com/harishusnan/Project-1-Stock-Price-Prediction/blob/main/images/Final_table.png)
+
+
+I guess that pretty much it! Thank you for your interest and stay tuned for the upcoming projects.
 
 
 #### Project 2: 
